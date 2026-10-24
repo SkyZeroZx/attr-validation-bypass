@@ -1,0 +1,9 @@
+{
+  "name": "@acme/image-fallback",
+  "version": "1.0.0",
+  "module": "index.mjs",
+  "typings": "index.d.ts",
+  "exports": { ".": { "types": "./index.d.ts", "default": "./index.mjs" } },
+  "peerDependencies": { "@angular/core": ">=20" },
+  "sideEffects": false
+}
